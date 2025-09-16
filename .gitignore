@@ -1,0 +1,13 @@
+Compiled files
+*.exe
+*.o
+*.out
+
+Backup / temp
+*.log
+*.tmp
+*.bak
+
+System files
+.DS_Store
+Thumbs.db
